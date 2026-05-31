@@ -4,5 +4,20 @@ This is the main web page of your project.
 <h1>Employee Management System</h1>
 
 style.css
+
+This file is used for designing and styling the webpage.
+h1 {
+  color: blue;
+}
+
 script.js
+
+This file contains JavaScript code.
+console.log("Welcome");
+
 README.md
+
+This file contains information about the project.
+# Employee Management System
+
+This project is used to manage employee details.
