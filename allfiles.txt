@@ -1,4 +1,8 @@
 index.html
+
+This is the main web page of your project.
+<h1>Employee Management System</h1>
+
 style.css
 script.js
 README.md
